@@ -1,7 +1,7 @@
 # java
 
 ## Instructions
-1. In your terminal, do `git clone git@github.com:hstatsep/java.git` to clone this repository
+1. In your terminal, do `git clone git@github.com:hstatsep/apcsa.git` to clone this repository
 2. In your terminal, do `cd java` to get into the `java` folder
 3. In your terminal, do `rm -rf .git` to "turn off" git in this folder.
 
