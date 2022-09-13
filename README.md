@@ -45,6 +45,7 @@ echo "" >> ~/.bash_profile
 echo "alias gp=\"git add ." >> ~/.bash_profile
 echo "git commit -m 'update repo'" >> ~/.bash_profile
 echo "git push\"" >> ~/.bash_profile
+echo
 
 ```
 * If you still see the last command in your terminal, press <kbd>ENTER</kbd>
