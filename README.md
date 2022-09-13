@@ -26,7 +26,7 @@ touch Hello.java
 * You should see `Hello World` in your terminal
 
 * As a general rule of thumb, use this same format when making new programs (`cd` into the correct directory, make a folder with the appropriate name, `cd` into it, then name your file `WhateverYouWant.java` which will then get compiled to `WhateverYouWant.class`). We make an entire folder because sometimes we will have multiple Java files that relate to each other, so this helps keep them organized.
-  * As a shortcut, you can copy with the `cp source destination` command. I.e. once you make your `HelloWorld` directory and `cd` into it, you could do `cp ~/java/Template.java ./WhateverYouWant.java`
+  * As a shortcut, you can copy with the `cp source destination` command. I.e. once you make your `HelloWorld` directory and `cd` into it, you could do `cp /workspaces/java/Template.java ./WhateverYouWant.java`
 
 ## Java compile and run
 #### Setting this up allows you to compile and run in the same command
