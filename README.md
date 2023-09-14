@@ -33,7 +33,8 @@ touch Hello.java
 * Copy/paste the following into the terminal.
 ```
 echo "" >> ~/.bash_profile
-echo "jcar() { javac $1.java && java $1 ; }" >> ~/.bash_profile
+echo "jcar() { javac \$1.java && java \$1 ; }" >> ~/.bash_profile
+echo "" >> ~/.bash_profile
 echo
 
 ```
