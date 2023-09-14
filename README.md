@@ -30,10 +30,13 @@ touch Hello.java
 
 ## Java compile and run
 #### Setting this up allows you to compile and run in the same command
-`nano ~/.bash_profile`  
-Paste the following:  
-`jcar() { javac $1.java && java $1 ; }`  
-Do <kbd>control</kbd>+<kbd>X</kbd> to quit, <kbd>Y</kbd> to save, then press <kbd>ENTER</kbd>
+* Copy/paste the following into the terminal.
+```
+echo "" >> ~/.bash_profile
+echo "jcar() { javac $1.java && java $1 ; }" >> ~/.bash_profile
+echo
+
+```
 
 To see the command take effect, you must **reload your IDE**.
 #### To use, type `jcar Program` (using your own Java program file, but with no `.java`)
