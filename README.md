@@ -1,9 +1,14 @@
 # java
 
 ## Setup (only follow these directions if you need/want the folder structure)
-1. In your terminal, do `git clone git@github.com:hstatsep/apcsa.git` to clone this repository
-2. In your terminal, do `cd apcsa` to get into the `apcsa` folder
-3. In your terminal, do `rm -rf .git` to "turn off" git in this folder.
+In your terminal, copy paste the code below to clone this repository and turn off `git` so that it's simply a copy of the folder structure in your IDE. You will NOT be able to push.
+```bash
+git clone git@github.com:hstatsep/apcsa.git
+cd apcsa
+rm -rf .git
+echo
+
+```
 
 ## Template
 
