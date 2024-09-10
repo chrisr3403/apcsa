@@ -24,6 +24,7 @@ cd u00-other
 mkdir HelloWorld
 cd HelloWorld
 touch Hello.java
+
 ```
 * Open `Hello.java` and paste in the same code from your template (but update the class name to `Hello`). Then run the following commands:
 * `javac Hello.java`
