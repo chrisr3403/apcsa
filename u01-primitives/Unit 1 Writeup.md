@@ -44,7 +44,7 @@ Such as for example a int and a double stores for example numbers. But on a ques
 So for this it asked for HW grades to be "int" since the hw grades are supposed to show whole numbers. Thinking it was the opposite I thought double is the int same goes for int being the double.
 So I used past assignments and also my quiz notes and I noticed it is swapped. So I went to fix it so the int carries the whole numbers and doubles carry desmals.
 
-My second challenege is figuring out how to actually making int statement scan as in once you enter a whole number it switches. It was simple later on but at first I did not know how to build it properly.
+# My second challenege is figuring out how to actually making int statement scan as in once you enter a whole number it switches. It was simple later on but at first I did not know how to build it properly.
 Strings gave me a reference such as ```String coursename = scan.nextLine();``` from my partner assignment. I needed to figure out a way to make it so it had int within so I took the time to make something such as this ```int gradehw0 = scan.nextLine();``` after using this It did not work which got me thinking for hours until I compared all scan line codes to see if they have differences. And one thing I noticed was this part  ```int gradeHW0 = scan.nextInt();``` the part next to the scan method has the "Int" which was needed to make whole numbers and the int code to work.
 
 [text](URL)
