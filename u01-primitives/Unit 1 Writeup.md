@@ -18,6 +18,12 @@ Chris is the best
 
 Both of these methods are used frequently and every assignment and quiz and in java in general!
 
+Lets start with a lesson from lesson 1 of intro to java!
+First thing we are going to be looking at is the strings!
+
+<img width="1133" height="409" alt="image" src="https://github.com/user-attachments/assets/220c8d9f-4907-4b92-a256-6e4355db3dcc" />
+
+
 
 
 * List
