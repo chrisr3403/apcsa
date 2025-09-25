@@ -55,6 +55,7 @@ this part  ```int gradeHW0 = scan.nextInt();``` the part next to the scan method
 # My third challenge
 My third challenge was my exam which I had trouble with. In a part where the exam was given on this question 
 <img width="880" height="599" alt="image" src="https://github.com/user-attachments/assets/5fefa52b-53a3-4f4e-96fc-05890001f634" />
+
 Why was this such a big challenge? I consider this to be my challenge because int data types are always whole numbers which links back to confusing data types.
 I was very confused as to why does a desmal go with the int? How could it go if the int itself does not have desmals? My conclusion was that we needed to divide the int number to get a desmal number.
 
