@@ -23,11 +23,9 @@ First thing we are going to be looking at is the strings!
 
 <img width="1133" height="409" alt="image" src="https://github.com/user-attachments/assets/220c8d9f-4907-4b92-a256-6e4355db3dcc" />
 
-
-
-
-* List
-* List
+Each System println will respond to the string scan code. The string corresponds to the system println so you can answer such as questions.
+Every time you answer the question the string transfers over via the scan to another system out print.
+This was only many of the things I learned. Strings stores text, ints store whole numbers, double stores decimals and boolean stores two values such as true and false.
 
 [text](URL)
 ![image text, optional](image URL)
