@@ -47,10 +47,19 @@ So for this it asked for HW grades to be "int" since the hw grades are supposed 
 So I used past assignments and also my quiz notes and I noticed it is swapped. So I went to fix it so the int carries the whole numbers and doubles carry desmals.
 
 # My second challenege 
-is figuring out how to actually making int statement scan as in once you enter a whole number it switches. It was simple later on but at first I did not know how to build it properly.
-Strings gave me a reference such as ```String coursename = scan.nextLine();``` from my partner assignment. I needed to figure out a way to make it so it had int within so I took the time to make something such as this ```int gradehw0 = scan.nextLine();``` after using this It did not work which got me thinking for hours until I compared all scan line codes to see if they have differences. And one thing I noticed was this part  ```int gradeHW0 = scan.nextInt();``` the part next to the scan method has the "Int" which was needed to make whole numbers and the int code to work.
+My second challenge is figuring out how to actually making int statement scan as in once you enter a whole number it switches. It was simple later on but at first I did not know how to build it properly.
+Strings gave me a reference such as ```String coursename = scan.nextLine();``` from my partner assignment. I needed to figure out a way to make it so it had int within so I took the time to make something such 
+as this ```int gradehw0 = scan.nextLine();``` after using this It did not work which got me thinking for hours until I compared all scan line codes to see if they have differences. And one thing I noticed was 
+this part  ```int gradeHW0 = scan.nextInt();``` the part next to the scan method has the "Int" which was needed to make whole numbers and the int code to work.
 
 # My third challenge
+My third challenge was my exam which I had trouble with. In a part where the exam was given on this question 
+<img width="880" height="599" alt="image" src="https://github.com/user-attachments/assets/5fefa52b-53a3-4f4e-96fc-05890001f634" />
+Why was this such a big challenge? I consider this to be my challenge because int data types are always whole numbers which links back to confusing data types.
+I was very confused as to why does a desmal go with the int? How could it go if the int itself does not have desmals? My conclusion was that we needed to divide the int number to get a desmal number.
+
+### Takeaways 
+
 
 [text](URL)
 ![image text, optional](image URL)
