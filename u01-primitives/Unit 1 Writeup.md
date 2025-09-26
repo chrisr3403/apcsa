@@ -47,12 +47,14 @@ So for this it asked for HW grades to be "int" since the hw grades are supposed 
 So I used past assignments and also my quiz notes and I noticed it is swapped. So I went to fix it so the int carries the whole numbers and doubles carry desmals.
 
 # My second challenege 
+
 My second challenge is figuring out how to actually making int statement scan as in once you enter a whole number it switches. It was simple later on but at first I did not know how to build it properly.
 Strings gave me a reference such as ```String coursename = scan.nextLine();``` from my partner assignment. I needed to figure out a way to make it so it had int within so I took the time to make something such 
 as this ```int gradehw0 = scan.nextLine();``` after using this It did not work which got me thinking for hours until I compared all scan line codes to see if they have differences. And one thing I noticed was 
 this part  ```int gradeHW0 = scan.nextInt();``` the part next to the scan method has the "Int" which was needed to make whole numbers and the int code to work.
 
 # My third challenge
+
 My third challenge was my exam which I had trouble with. In a part where the exam was given on this question 
 <img width="880" height="599" alt="image" src="https://github.com/user-attachments/assets/5fefa52b-53a3-4f4e-96fc-05890001f634" />
 
@@ -61,15 +63,31 @@ I was very confused as to why does a desmal go with the int? How could it go if 
 
 ### Takeaways 
 
+# My first takeaway!
+My first takeaway is that each data type has their own description and as well can work with the scanner such as this line:
+`Scanner scan = new Scanner(System.in);`
+From what I know we can now see that the scanner scans each new system print such as if a int for example, if you put in the number the scanner will then allow you to move on to the next line.
+This is a good takeaway for the future when working on FP because then you can make lines of code continue after each scan and of course scans require code such as this for example: 
 
-[text](URL)
-![image text, optional](image URL)
+Ints:
+```int gradeHW0 = scan.nextInt();```
+
+Strings 
+```String coursename = scan.nextLine();```
+
+# My second takeaway!
+My second takeaway is that in java ints doubles booleans and strings have data such as booleans, doubles and ints are primative data types.
+For strings, strings are non primative types which are refrence due to a string only having characters such as letters.
+
 
 Inline `code` snippet
 
-```language
-multi
-line
-code
-snippet
+```The Print code - prints the text
+System.out.println("");
+System.out.print("")
+```
+
+``` Scanner - scans each code line
+Scanner scan = new Scanner(System.in);
+scan.nextLine();
 ```
