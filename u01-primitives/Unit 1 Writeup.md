@@ -82,12 +82,12 @@ For strings, strings are non primative types which are refrence due to a string 
 
 Inline `code` snippet
 
-```The Print code - prints the text
+`The Print code - prints the text
 System.out.println("");
 System.out.print("")
-```
+`
 
-``` Scanner - scans each code line
+` Scanner - scans each code line
 Scanner scan = new Scanner(System.in);
 scan.nextLine();
-```
+`
